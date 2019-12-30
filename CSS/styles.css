@@ -1,0 +1,159 @@
+a {
+  color: #e8ecf1;
+  margin: 10px 15px
+}
+
+a:hover {
+  color: #79bbff;
+}
+
+body {
+  margin: 0;
+  text-align: center;
+  color: #40514E;
+  font-family: 'libre Franklin', serif;
+}
+
+h1 {
+  margin-top: 0;
+  font-family: 'Righteous', cursive;
+  font-size: 5.625rem;
+  color: #e8ecf1;
+}
+
+h2 {
+  font-family: 'Fugaz One', cursive;
+  font-size: 2.5rem;
+  color: #7393a7;
+  padding-bottom: 5px;
+}
+
+h3 {
+  color: #66BFBF;
+}
+
+hr {
+  border: dotted 6px;
+  border-bottom: none;
+  width: 4%;
+  margin: 100px auto;
+}
+
+.appbrewery{
+  color:  #40514E;
+}
+
+.bottom-cloud {
+  position: absolute;
+  left: 300px;
+  bottom: 300px;
+}
+
+.bottom-container {
+  background-color: #7393a7;
+  padding: 50px 0 20px;
+}
+
+.btn {
+  -moz-box-shadow: inset 0px 1px 0px 0px #bbdaf7;
+  -webkit-box-shadow: inset 0px 1px 0px 0px #bbdaf7;
+  box-shadow: inset 0px 1px 0px 0px #bbdaf7;
+  background: -webkit-gradient(linear, left top, left bottom, color-stop(0.05, #79bbff), color-stop(1, #378de5));
+  background: -moz-linear-gradient(center top, #79bbff 5%, #378de5 100%);
+  filter: progid:DXImageTransform.Microsoft.gradient(startColorstr='#79bbff', endColorstr='#378de5');
+  background-color: #79bbff;
+  -webkit-border-top-left-radius: 35px;
+  -moz-border-radius-topleft: 35px;
+  border-top-left-radius: 35px;
+  -webkit-border-top-right-radius: 35px;
+  -moz-border-radius-topright: 35px;
+  border-top-right-radius: 35px;
+  -webkit-border-bottom-right-radius: 35px;
+  -moz-border-radius-bottomright: 35px;
+  border-bottom-right-radius: 35px;
+  -webkit-border-bottom-left-radius: 35px;
+  -moz-border-radius-bottomleft: 35px;
+  border-bottom-left-radius: 35px;
+  text-indent: 0;
+  border: 3px solid #84bbf3;
+  display: inline-block;
+  color: #ffffff;
+  font-family: Arial;
+  font-size: 15px;
+  font-weight: bold;
+  font-style: normal;
+  height: 50px;
+  line-height: 50px;
+  width: 100px;
+  text-decoration: none;
+  text-align: center;
+  text-shadow: 1px 1px 0px #528ecc;
+}
+
+.btn:hover {
+  background: -webkit-gradient(linear, left top, left bottom, color-stop(0.05, #378de5), color-stop(1, #79bbff));
+  background: -moz-linear-gradient(center top, #378de5 5%, #79bbff 100%);
+  filter: progid:DXImageTransform.Microsoft.gradient(startColorstr='#378de5', endColorstr='#79bbff');
+  background-color: #378de5;
+}
+
+.btn:active {
+  position: relative;
+  top: 1px;
+}
+
+/* This button was generated using CSSButtonGenerator.com */
+.contact-me {
+  width: 40%;
+  margin: 40px auto 60px;
+}
+
+.img-hobbies {
+  padding-bottom: 20px;
+}
+
+.me {
+  width: 200px;
+  border-radius: 50%;
+}
+
+.middle-container {
+  background-color: #e8ecf1;
+  padding: 100px 0 50px;
+}
+
+.laptop {
+  width: 25%;
+  float: left;
+  margin-right: 30px;
+}
+
+.travel {
+  width: 25%;
+  float: right;
+  margin-left: 30px;
+}
+
+.top-container {
+  background-color: #7393a7;
+  position: relative;
+  padding-top: 40px;
+}
+
+.top-cloud {
+  position: absolute;
+  top: 50px;
+  right: 300px;
+}
+
+.skill-row {
+  margin: 100px auto 100px auto;
+  width: 50%;
+  text-align: left;
+  line-height: 2;
+}
+
+.web-developper {
+  font-weight: normal;
+  color: #e8ecf1;
+}
