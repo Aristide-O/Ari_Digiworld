@@ -127,6 +127,16 @@ hr {
   margin-right: 30px;
 }
 
+.project {
+  margin-top: 50px;
+  margin-bottom: 50px;
+}
+
+.project-media {
+  border-radius: 2%;
+}
+
+
 .travel {
   width: 25%;
   float: right;
