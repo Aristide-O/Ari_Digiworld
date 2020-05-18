@@ -58,8 +58,8 @@ hr {
   -moz-box-shadow: inset 0px 1px 0px 0px #bbdaf7;
   -webkit-box-shadow: inset 0px 1px 0px 0px #bbdaf7;
   box-shadow: inset 0px 1px 0px 0px #bbdaf7;
-  background: -webkit-gradient(linear, left top, left bottom, color-stop(0.05, #79bbff), color-stop(1, #378de5));
-  background: -moz-linear-gradient(center top, #79bbff 5%, #378de5 100%);
+  background: -webkit-gradient(linear, left top, left bottom, color-stop(0.05, #7393a7), color-stop(1, #7393a7));
+  background: -moz-linear-gradient(center top, #7393a7 5%, #7393a7 100%);
   filter: progid:DXImageTransform.Microsoft.gradient(startColorstr='#79bbff', endColorstr='#378de5');
   background-color: #79bbff;
   -webkit-border-top-left-radius: 35px;
@@ -118,7 +118,6 @@ hr {
 }
 
 .middle-container {
-  background-color: #e8ecf1;
   padding: 100px 0 50px;
 }
 
