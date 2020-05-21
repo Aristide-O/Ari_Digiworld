@@ -106,9 +106,6 @@ hr {
   margin: 40px auto 60px;
 }
 
-.find-out {
-
-}
 
 .footer-link {
   color: #e8ecf1;
@@ -141,6 +138,7 @@ hr {
 
 .project-media {
   border-radius: 2%;
+  height: 680px;
 }
 
 .project-link {
