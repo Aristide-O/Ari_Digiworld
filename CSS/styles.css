@@ -10,6 +10,7 @@ body {
   text-align: center;
   color: #40514E;
   font-family: 'libre Franklin', serif;
+  font-size: 120%;
 }
 
 h1 {
@@ -102,7 +103,6 @@ hr {
 
 /* This button was generated using CSSButtonGenerator.com */
 .contact-me {
-  width: 40%;
   margin: 40px auto 60px;
 }
 
@@ -121,6 +121,10 @@ hr {
   padding-bottom: 20px;
 }
 
+.hobbies {
+font-size: 120%;
+}
+
 .me {
   width: 200px;
   border-radius: 50%;
@@ -128,6 +132,8 @@ hr {
 
 .middle-container {
   padding: 100px 0 50px;
+  margin-right: 5%;
+  margin-left: 5%;
 }
 
 .laptop {
@@ -136,14 +142,25 @@ hr {
   margin-right: 30px;
 }
 
+.lower-section {
+  font-size: 120%;
+  margin-right: 5%;
+  margin-left: 5%;
+}
+
 .project {
   margin-top: 50px;
   margin-bottom: 50px;
 }
 
+p {
+  font-size: 120%;
+}
+
 .project-media {
   border-radius: 2%;
-  height: 680px;
+  height: 560px;
+  width: 32Opx;
 }
 
 .project-link {
@@ -171,7 +188,6 @@ hr {
 
 .skill-row {
   margin: 100px auto 100px auto;
-  width: 50%;
   text-align: left;
   line-height: 2;
 }
@@ -180,3 +196,27 @@ hr {
   font-weight: normal;
   color: #e8ecf1;
 }
+
+@media only screen and (max-width: 600px) { 
+  h1 {
+    font-family: 'Righteous', cursive;
+    font-size: 260%;
+    color: #e8ecf1;
+  }
+  
+  h2 {
+    font-family: 'Fugaz One', cursive;
+    font-size: 260%;
+    color: #7393a7;
+    padding-bottom: 5px;
+  }
+
+  .skill-row {
+    font-size: 300%;
+  }
+
+  .skills {
+    font-size: 300%;
+  }
+
+ }
