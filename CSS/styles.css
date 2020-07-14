@@ -197,7 +197,6 @@ p {
   margin: 100px auto 100px auto;
   text-align: left;
   line-height: 2;
-  font-size: 120%;
   margin-right: 5%;
   margin-left: 5%;
 }
@@ -206,27 +205,3 @@ p {
   font-weight: normal;
   color: #e8ecf1;
 }
-/* 
-@media only screen and (max-width: 600px) { 
-  h1 {
-    font-family: 'Righteous', cursive;
-    font-size: 260%;
-    color: #e8ecf1;
-  }
-  
-  h2 {
-    font-family: 'Fugaz One', cursive;
-    font-size: 260%;
-    color: #7393a7;
-    padding-bottom: 5px;
-  }
-
-  .skill-row {
-    font-size: 300%;
-  }
-
-  .skills {
-    font-size: 300%;
-  }
-
- } */
